@@ -1,0 +1,63 @@
+
+
+.main{
+    background-color: #1A1B21;
+
+}
+
+.text{
+    padding-left: 15px;
+    padding-right: 15px;
+    font-weight: 400px;
+    font-size: 10px;
+
+}
+
+a button{
+    display: flex;
+    flex-direction: row;
+justify-content: space-evenly;
+align-items: center;
+}
+.main-h1{
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+
+.main-h2{
+    color: #F3BF99;
+    line-height: 30px;
+    
+}
+
+.headings{
+    text-align: right;
+}
+
+.button{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.btn{
+    width: 115px;
+    height: 34px;
+    border-radius: 5px;
+    border: none;
+}
+
+.btn-card{
+    
+}
+
+.linkedin{
+    color: #FFFFFF;
+    background-color: #5093E2;
+    padding: 0; 
+}
+
+.email{
+    background-color: #FFFFFF;
+}
