@@ -6,8 +6,7 @@
 }
 
 .text{
-    padding-left: 25px;
-    padding-right: 25px;
+
     font-weight: 400px;
     font-size: 10px;
     line-height: 1.6rem;
@@ -40,10 +39,6 @@ align-items: center;
     color: #F3BF99;
     line-height: 30px;
     
-}
-
-.headings{
-    text-align: right;
 }
 
 .button{
@@ -82,6 +77,16 @@ a{
     text-decoration: none;
 }
 
-.main div:last-child{
-    margin-bottom: 30px;
+
+h3 {
+    margin-bottom: 0px;
+    align-self: flex-start;
+
+}
+
+.headings-wrapper{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 270px;
+    max-width: 100%;
 }
