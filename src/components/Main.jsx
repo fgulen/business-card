@@ -21,14 +21,9 @@ function Main() {
 
             <div>
                 <h2 className="headings">About</h2>
-                <p className="text">I am a frontend developer with a particular 
-                    interest in making things simple and automating
-                    daily tasks. I try to keep up with security and 
-                    best practices, and am always looking for new things to learn.
+                <p className="text">Test automation expert living in Germany, working at Deutsche Bahn and expanding knowledge in React. Combining software testing and development expertise to deliver successful project outcomes.
                     </p>
-                <h2 className="headings">Interests</h2>
-                <p className="text">Food expert. Music scholar. Reader. Internet fanatic. Bacon buff. 
-                    Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.
+                <p className="text">Blockchain technology, photography, and teaching. Passionate about exploring the potential of blockchain, capturing life's moments through photography, and sharing knowledge with students.
                     </p>
             </div>
         </div>

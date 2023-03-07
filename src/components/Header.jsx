@@ -1,6 +1,6 @@
 import "./styles/Header.css"
 
-import Profileimg from "../images/logo2.jpg"
+import Profileimg from "../images/fatih.jpg"
 
 function Header() {
     return (
